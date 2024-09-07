@@ -214,6 +214,7 @@
         <tr>
             <td colspan="2">
                 <footer>
+                    <h1><a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a></h1>
                     &copy;nabila-2024
                 </footer>
             </td>
@@ -221,7 +222,7 @@
 
 
     </table>
-    <h1><a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a></h1>
+ 
 
 </body>
 
