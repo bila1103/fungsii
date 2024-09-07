@@ -50,8 +50,7 @@
 </head>
 
 <body>
-
-    <table border="1">
+<table border="1">
         <tr>
             <th colspan="2">
                 <image src="fungsi.png" alt="fungsi" width="100%" height="50%" />
@@ -214,16 +213,11 @@
         <tr>
             <td colspan="2">
                 <footer>
-                    <h1><a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a></h1>
                     &copy;nabila-2024
                 </footer>
             </td>
         </tr>
-
-
-    </table>
-
-
+ </table>
+ <a href="https://bila1103.github.io/formulir/"> TUGAS-2 HERE!!</a>
 </body>
-
 </html>
