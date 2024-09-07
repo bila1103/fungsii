@@ -27,6 +27,23 @@
         th:hover {
             background-color: rgb(80, 240, 255);
         }
+
+        h1 {
+            text-align: center;
+            font-size: 50px;
+        }
+
+        a:visited {
+            color: rgb(114, 10, 10);
+        }
+
+        a:hover {
+            color: rgb(230, 121, 159);
+        }
+
+        a:active {
+            color: rgb(78, 205, 219);
+        }
     </style>
     <title> Tugas pemograman web</title>
 
@@ -204,7 +221,7 @@
 
 
     </table>
-    <a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a>
+    <h1><a href="https://bila1103.github.io/formulir/">TUGAS-2 (FORM) HERE!!!!</a></h1>
 
 </body>
 
