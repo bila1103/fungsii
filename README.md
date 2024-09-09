@@ -218,6 +218,6 @@
             </td>
         </tr>
  </table>
- <a href="https://bila1103.github.io/formulir/"> TUGAS-2 HERE!!</a>
+ <h1><a href="https://bila1103.github.io/formulir/"> TUGAS-2 HERE!!</a></h1>
 </body>
 </html>
